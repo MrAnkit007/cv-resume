@@ -9,7 +9,7 @@ export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title:
-      'CvFy - Create, visulize and save your CV as PDF in a few minutes and free!',
+      'Simple-Cv-Maker: Create Beautiful CV For Free',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -31,7 +31,7 @@ export default {
       {
         hid: 'twitter:url',
         name: 'twitter:url',
-        content: 'https://cvfy.netlify.app/',
+        content: 'https://simple-cv-Maker.netlify.app/',
       },
       {
         hid: 'twitter:image',
